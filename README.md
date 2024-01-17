@@ -12,7 +12,7 @@ The version number off the branch is the version that it works on on pterodactyl
 A simple menu where you can choose which addon or theme you want
 **Use root when running this! Else the script will fail!**  
 ```
-bash <(curl https://raw.githubusercontent.com/NurAzliYT/Statistics /V1.10.1/resources/script.sh)
+bash <(curl https://raw.githubusercontent.com/NurAzliYT/Statistics/V1.10.1/resources/script.sh)
 ```
 
 ### Pictures of themes:
